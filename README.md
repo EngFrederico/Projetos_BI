@@ -13,13 +13,15 @@ Atuação com planejamento e execução de inventários cíclicos e geral, gest�
 **Background in:** Python, Machine Learning, Linguagem R, SQL, Power BI.
 
 **Links:**
-* [Blog]
+
 * [LinkedIn](https://www.linkedin.com/in/frederico-fernandes-soares-41240950/)
-* [Medium]
+
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+Cases de Power BI
+
+Dashboard de Estoque: https://bit.ly/3HMd6dE
 
 
 ---
