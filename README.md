@@ -14,9 +14,13 @@ Aplicação de metodoligas ágeis, como Scrum, Lean Manufactuirn manufacturing, 
 ### Formação Acadêmica:
 
 Graduação em Sistemas de Informação – Estácio de Sá – Em andamento (Previsão de término em 06/2023)
+
 Especialização em Matemática - Faculdade Cruzeiro do Sul – (Previsão término em 06/2022)
+
 MBA em Gestão Ágil – Pitágoras – Concluído em 2021
+
 MBA em Logística e Supply Chain Management – Pitágoras – Concluído em 2020
+
 Graduação em Engenharia de Produção – 2°/2014 a 1°/2019 – Centro universitário UNA – Concluído 2019
 
 
