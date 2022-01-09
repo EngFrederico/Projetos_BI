@@ -11,7 +11,7 @@ Profissional com experiência em modelagem e análise de dados para tomada de de
 Atuação com planejamento e execução de inventários cíclicos e geral, gestão de estoque, controle e planejamento de demanda. Passagem pelas áreas de Supply Chain, logística, planejamento de estoque, planejamento de materiais, compras e suprimentos. 
 Aplicação de metodoligas ágeis, como Scrum, Lean Manufactuirn manufacturing, Kanban e Design Thinkings.
 
-# Formação Acadêmica:
+### Formação Acadêmica:
 
 Graduação em Sistemas de Informação – Estácio de Sá – Em andamento (Previsão de término em 06/2023)
 Especialização em Matemática - Faculdade Cruzeiro do Sul – (Previsão término em 06/2022)
